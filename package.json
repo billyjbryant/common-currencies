@@ -1,0 +1,28 @@
+{
+  "name": "common-currencies",
+  "version": "1.0.0",
+  "description": "List of common currencies with their information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moonshot-partners/common-currencies.git"
+  },
+  "keywords": [
+    "money",
+    "currencies",
+    "currency",
+    "iso-4217"
+  ],
+  "author": "Ricardo Rodriguez <ricardo@moonshot.partners>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moonshot-partners/common-currencies/issues"
+  },
+  "homepage": "https://github.com/moonshot-partners/common-currencies#readme",
+  "devDependencies": {
+    "jest": "^26.4.1"
+  }
+}
