@@ -1,3 +1,5 @@
+![Node.js CI](https://github.com/moonshot-partners/common-currencies/workflows/Node.js%20CI/badge.svg)
+
 # Common Currencies
 This package provides a list of common currencies with their information, including
 symbol, name, code, decinal digits.
