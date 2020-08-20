@@ -1,6 +1,6 @@
 {
   "name": "@moonshot-partners/common-currencies",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "List of common currencies with their information.",
   "main": "index.js",
   "scripts": {
